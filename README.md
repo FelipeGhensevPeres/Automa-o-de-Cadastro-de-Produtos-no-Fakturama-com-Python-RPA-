@@ -1,6 +1,6 @@
 # Automação de Cadastro de Produtos no Fakturama com Python (RPA – Robotic Process Automation)
 
-Este projeto utiliza **Python,PyAutoGUI e Pandas** para automatizar o processo de cadastro de produtos no ERP **Fakturama**.  
+Este projeto (`main.py`) utiliza **Python,PyAutoGUI e Pandas** para automatizar o processo de cadastro de produtos no ERP **Fakturama**.  
 A automação faz a leitura dos dados de uma planilha Excel (`Produtos.xlsx`) e preenche automaticamente os campos do sistema, ajudando a diminuir a interação humana.
 
 ## O que eu usei
